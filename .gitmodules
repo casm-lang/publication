@@ -1,0 +1,62 @@
+#
+#   Copyright (C) 2014-2019 CASM Organization <https://casm-lang.org>
+#   All rights reserved.
+#
+#   Developed by: Philipp Paulweber
+#                 <https://github.com/casm-lang/publication>
+#
+#   Permission is granted to copy, distribute and/or modify this document under 
+#   the terms of the GNU Free Documentation License, Version 1.3 or any later 
+#   version published by the Free Software Foundation; with no Invariant Sections, 
+#   no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is 
+#   included in the section entitled "GNU Free Documentation License". 
+#   If not, see <https://www.gnu.org/licenses/fdl-1.3.html>.
+#
+
+[submodule "hahn2014bsc"]
+	path = hahn2014bsc
+	url = git@github.com:casm-lang/casm-lang.doc.hahn2014bsc.git
+
+[submodule "infuehr2013bsc"]
+	path = infuehr2013bsc
+	url = git@github.com:casm-lang/casm-lang.doc.infuehr2013bsc.git
+
+[submodule "lascsak2019bsc"]
+	path = lascsak2019bsc
+	url = git@github.com:casm-lang/casm-lang.doc.lascsak2019bsc.git
+
+[submodule "lezuo2014phd"]
+	path = lezuo2014phd
+	url = git@github.com:casm-lang/casm-lang.doc.lezuo2014phd.git
+
+[submodule "molnar2019bsc"]
+	path = molnar2019bsc
+	url = git@github.com:casm-lang/casm-lang.doc.molnar2019bsc.git
+
+[submodule "moosbrugger2019csp"]
+	path = moosbrugger2019csp
+	url = git@github.com:casm-lang/casm-lang.doc.moosbrugger2019csp.git
+
+[submodule "nguyen2017bsc"]
+	path = nguyen2017bsc
+	url = git@github.com:casm-lang/casm-lang.doc.nguyen2017bsc.git
+
+[submodule "paulweber2014msc"]
+	path = paulweber2014msc
+	url = git@github.com:casm-lang/casm-lang.doc.paulweber2014msc.git
+
+[submodule "paulweber2016abz"]
+	path = paulweber2016abz
+	url = git@github.com:casm-lang/casm-lang.doc.paulweber2016abz.git
+
+[submodule "paulweber2018abz"]
+	path = paulweber2018abz
+	url = git@github.com:casm-lang/casm-lang.doc.paulweber2018abz.git
+
+[submodule "paulweber2019phd"]
+	path = paulweber2019phd
+	url = git@github.com:casm-lang/casm-lang.doc.paulweber2019phd.git
+
+[submodule "pescosta2017bsc"]
+	path = pescosta2017bsc
+	url = git@github.com:casm-lang/casm-lang.doc.pescosta2017bsc.git

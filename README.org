@@ -1,0 +1,51 @@
+# 
+#   Copyright (C) 2014-2019 CASM Organization <https://casm-lang.org>
+#   All rights reserved.
+# 
+#   Developed by: Philipp Paulweber
+#                 <https://github.com/casm-lang/publication>
+# 
+#   Permission is granted to copy, distribute and/or modify this document under 
+#   the terms of the GNU Free Documentation License, Version 1.3 or any later 
+#   version published by the Free Software Foundation; with no Invariant Sections, 
+#   no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is 
+#   included in the section entitled "GNU Free Documentation License". 
+#   If not, see <https://www.gnu.org/licenses/fdl-1.3.html>.
+# 
+[[https://github.com/casm-lang/casm-lang.logo/raw/master/etc/headline.png]]
+
+#+options: toc:nil
+
+
+* CASM Publications
+
+This repository collects sub-module references to all publications of the Corinthian Abstract State Machine (CASM) project.
+
+The gathered information of the publications is rendered at the project's website https://casm-lang.org/publications.
+
+** Copyright and License
+
+The copyright holder of 
+=publication= is the [[https://casm-lang.org][CASM organization]] ([[https://github.com/casm-lang][@casm-lang]]) 
+and the used license of 
+=publication= is the [[https://www.gnu.org/licenses/fdl-1.3.html][GNU FDLv1.3]].
+
+
+*** Notice
+
+#+begin_src
+
+Copyright (C) 2014-2019 CASM Organization <https://casm-lang.org>
+All rights reserved.
+
+Developed by: Philipp Paulweber
+              <https://github.com/casm-lang/publication>
+
+Permission is granted to copy, distribute and/or modify this document under 
+the terms of the GNU Free Documentation License, Version 1.3 or any later 
+version published by the Free Software Foundation; with no Invariant Sections, 
+no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is 
+included in the section entitled "GNU Free Documentation License". 
+If not, see <https://www.gnu.org/licenses/fdl-1.3.html>.
+
+#+end_src
