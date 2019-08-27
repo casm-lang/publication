@@ -60,3 +60,9 @@
 [submodule "pescosta2017bsc"]
 	path = pescosta2017bsc
 	url = git@github.com:casm-lang/casm-lang.doc.pescosta2017bsc.git
+[submodule "paulweber2019async"]
+	path = paulweber2019async
+	url = git@github.com:casm-lang/casm-lang.doc.paulweber2019async.git
+[submodule "simhandl2019emip"]
+	path = simhandl2019emip
+	url = git@github.com:casm-lang/casm-lang.doc.simhandl2019emip.git
